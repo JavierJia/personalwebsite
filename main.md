@@ -5,7 +5,7 @@
 [Department of Computer Science](http://www.ics.uci.edu/)<br>
 Donald Bren Hall, Room 2062 <br>
 [University of California, Irvine](http://www.uci.edu/)<br>
-<jianfenj@ics.uci.edu>
+<jianfeng.jia@uci.edu>
 
 ***
 ## About Me
